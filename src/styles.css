@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.well{
+  background-color:red;
+  padding:20px;
+  color:white;
+}
+.data{
+  height:170px;
+  background-color:pink;
+}
